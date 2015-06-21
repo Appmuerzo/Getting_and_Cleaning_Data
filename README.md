@@ -15,7 +15,6 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 5. task 4: look at the names names(selectedCols)
 Run code
 verify with names(selectedCols)
-
 this can also be done by code.
 
 6. task 5: create the "TidyData.txt" file
